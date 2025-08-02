@@ -99,7 +99,5 @@ The frontend runs on: http://localhost:3000
 
 ## 📸 Demo Screenshot
 
-![App Screenshot]
----
 
 https://drive.google.com/file/d/1TJS1ut2GOMNTAQfAnEsM7hfsl1xGMc7A/view?usp=sharing
