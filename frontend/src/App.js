@@ -13,7 +13,7 @@ function App() {
     setAnswer("");
 
     try {
-      const res = await axios.post("http://localhost:5000/api/ask", { question });
+      const res = await axios.post("https://llmq-backend.onrender.com/api/ask", { question });
       setAnswer(res.data.answer);
     } catch (err) {
       setAnswer("Failed to fetch answer.");
